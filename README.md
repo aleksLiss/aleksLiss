@@ -1,4 +1,4 @@
-### Hi there 👋, Hi! My name is Aleksei. Welcome!
+### Hi 👋 My name is Aleksei. Welcome!
 ![](https://github.com/aleksLiss)
 1. I have learnt java at [Job4j](https://job4j.ru).
 
