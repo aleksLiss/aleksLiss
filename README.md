@@ -4,9 +4,10 @@
 
 2. Projects:
 
+[job4j_tracker](https://github.com/aleksLiss/job4j_tracker)
+
 [job4j_elementary](https://github.com/aleksLiss/job4j_elementary)
   
-[job4j_tracker](https://github.com/aleksLiss/job4j_tracker)
    
 **Skills:** Java
 
