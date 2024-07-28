@@ -1,19 +1,20 @@
-## Hi👋 My name is Aleksei. Welcome! 
-**About me:**
+### Hi there 👋, Hi! My name is Aleksei. Welcome!
+![](https://github.com/aleksLiss)
+
 1. I have learnt java at [Job4j](https://job4j.ru).
 
-<!--
-**aleksLiss/aleksLiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Java
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Java☕ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aleksLiss)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/lex_usys)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksLiss)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksLiss&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/aleksLiss)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=aleksLiss)  
+
