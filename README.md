@@ -15,8 +15,8 @@
 
 **Skills:** Java
 
-**How to write me: ==>
-**
+****How to write me: ==>**
+
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/lex_usys)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksLiss)](https://github.com/anuraghazra/github-readme-stats)
